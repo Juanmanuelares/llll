@@ -1,0 +1,174 @@
+* {
+  box-sizing: border-box;
+  padding: o;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  list-style-type: none;
+  color: #eee8aa;
+  text-decoration: none;
+}
+
+body {
+<<<<<<< HEAD
+  background-color: #eee8aa;
+  padding: 2px;
+  margin: 2px;
+  background-image: ;
+}
+.header {
+  display: flex;
+  background-color: #3c8b8b;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 100%;
+  max-height: 100%;
+}
+.logo {
+  padding: 0.5px;
+}
+.logoti {
+  max-width: 40%;
+  max-height: 40%;
+  border-radius: 60%;
+  opacity: 80%;
+}
+.listanav {
+  display: flex;
+=======
+  background-color: #292824; 
+}
+.header {
+  display: flex;
+  background-color: #e7880b;
+  margin: 0.2%;
+width: 100%;
+justify-content: space-around;
+}
+
+
+.listanav {
+display: flex;
+>>>>>>> 251aa19 (hero)
+  justify-content: space-between;
+  gap: 100px;
+  align-items: center;
+  margin: 20px;
+<<<<<<< HEAD
+}
+.link {
+  background-color: #3c8b8b;
+  padding: 1px;
+  margin: 2px;
+}
+a:hover {
+  color: rgb(71, 12, 24);
+}
+=======
+  padding: 100px,20px;
+  background-color: #e7880b
+  ;
+
+}
+.link {
+    padding: 1px;
+  margin: 2px; 
+  
+}
+.logo{
+  display: flex;
+  font-size: 25px;
+  font-family: cursive;
+  align-items: center;
+  margin-top: 10px;
+  left: 50px;
+  color: black;
+  position: absolute;left: 15px;
+}
+
+
+a:hover{
+  color: rgb(112, 64, 0);
+}
+.section {
+  display: flex;
+  margin: 10%;
+}
+.h1 {
+display: flex;
+position: relative; left: 5%; 
+  font-size:60px;
+  
+} 
+.p_h1{
+  font-size: 30px;
+  margin: 5%;
+  position: relative; left: 5%;
+  flex-direction: column; max-width: 50%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.divfondo{
+  display:flex;
+  justify-content: flex-end;
+ align-items: center;
+ position: relative; bottom: 48%;left: 12%;
+ opacity: 80%;
+ ;
+}
+
+.fondo{
+  max-width: 450px;
+  border-radius: 10%;
+
+}
+
+.bottom ,.bottoms,.bottomq { 
+  justify-content: space-between;
+  background-color: #292824;
+  color:#eee8aa;
+  border-radius: 20%;
+  padding: 10px;
+
+  
+  }
+ 
+  button:hover{
+    color: #e7880b;
+  }
+  
+.bottoms{
+  position: absolute;left: 40%; 
+}
+.bottomq{
+  position: absolute; left: 20%;
+}
+
+.section_about{
+  display: flex;  
+  position: relative;bottom: 100px;
+  ;
+  justify-content: center;
+  align-items: center;
+   padding: 40 px
+  ;
+  width: 1500px;
+  margin: 50px;
+  background-color: #eca21757;
+ 
+}
+
+.nosotros {
+  width: 100%;
+  ;
+  
+  position: relative; left: 40%; bottom: 100px;
+  font-size: 30px;
+  margin-bottom: 10%;
+}
+.p_about {
+position: absolute; 
+width: 80%;
+flex-direction: column;
+font-size: 25px;
+}
+>>>>>>> 251aa19 (hero)
