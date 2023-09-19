@@ -10,32 +10,6 @@
 }
 
 body {
-<<<<<<< HEAD
-  background-color: #eee8aa;
-  padding: 2px;
-  margin: 2px;
-  background-image: ;
-}
-.header {
-  display: flex;
-  background-color: #3c8b8b;
-  justify-content: space-between;
-  align-items: center;
-  max-width: 100%;
-  max-height: 100%;
-}
-.logo {
-  padding: 0.5px;
-}
-.logoti {
-  max-width: 40%;
-  max-height: 40%;
-  border-radius: 60%;
-  opacity: 80%;
-}
-.listanav {
-  display: flex;
-=======
   background-color: #292824; 
 }
 .header {
@@ -49,22 +23,10 @@ justify-content: space-around;
 
 .listanav {
 display: flex;
->>>>>>> 251aa19 (hero)
   justify-content: space-between;
   gap: 100px;
   align-items: center;
   margin: 20px;
-<<<<<<< HEAD
-}
-.link {
-  background-color: #3c8b8b;
-  padding: 1px;
-  margin: 2px;
-}
-a:hover {
-  color: rgb(71, 12, 24);
-}
-=======
   padding: 100px,20px;
   background-color: #e7880b
   ;
@@ -122,19 +84,18 @@ position: relative; left: 5%;
 
 }
 
-.bottom ,.bottoms,.bottomq { 
+.bottom ,.bottoms,.bottomq {
   justify-content: space-between;
   background-color: #292824;
   color:#eee8aa;
   border-radius: 20%;
-  padding: 10px;
-
+  padding: px;
   
   }
  
-  button:hover{
-    color: #e7880b;
-  }
+.bottom : :hover{
+  color: #e7880b;
+}
   
 .bottoms{
   position: absolute;left: 40%; 
@@ -171,4 +132,3 @@ width: 80%;
 flex-direction: column;
 font-size: 25px;
 }
->>>>>>> 251aa19 (hero)
